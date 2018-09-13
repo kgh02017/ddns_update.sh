@@ -1,0 +1,6 @@
+#!/bin/bash
+
+export PATH=$PATH:/sbin:/usr/sbin:/usr/local/bin
+
+/opt/ddns_update/ddns_update.sh
+

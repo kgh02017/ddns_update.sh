@@ -11,6 +11,7 @@ if IP address change detected.
 
 - Copy ddns\_update.sh and domain\_info.dat to /opt/ddns\_update
 - Specify configuration properly in /opt/ddns\_update/ddns\_update.conf
+- Copy ddns\_update.cron to /etc/cron.hourly
 
 ## Licence
 
